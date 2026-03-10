@@ -1,3 +1,10 @@
+/**
+ * File: Methods
+ * Author: Visaagan Gunabalachandran
+ * Date Created: Mar 4, 2026
+ * Date Last Modified: Mar 10, 2026
+ */
+
 import java.util.Scanner;
 public class PracticeProblem {
 
